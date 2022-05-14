@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YellowDimond
+- 👋 Hi, I’m @Ventil.py
 - 👀 I’m interested in Software and Web Dev; AI Machine Learing..
 - 🌱 I’m currently learning Python. Bevor was learning swift. 
 - 💞️ I’m looking to collaborate on Python projects I'll come up with in the future xD
